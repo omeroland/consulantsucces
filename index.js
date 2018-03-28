@@ -5,6 +5,6 @@ app.use(express.static('public'));
 
 app.use('/', express.static(__dirname + '/public'));
 
-app.listen(process.env.PORT  || 3000, function () {
+app.listen(process.env.PORT  || 8080, function () {
     console.log('Server is start');
 });
