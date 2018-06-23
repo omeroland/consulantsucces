@@ -752,9 +752,9 @@
 
             sortingGallery();
 
-            if($("#map").length) {
+            /*if($("#map").length) {
                 map();
-            }
+            }*/
 
         });
 
