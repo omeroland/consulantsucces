@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ff6e34a-cda3-487e-b38f-e38d84ed7a8a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/images/newsletter-bg.jpg" afterPath="$PROJECT_DIR$/public/assets/images/newsletter-bg.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -369,7 +369,8 @@
     <MESSAGE value="Correction photo" />
     <MESSAGE value="Lien facebook et linkedin" />
     <MESSAGE value="Changement de l'adresse" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changement de l'adresse" />
+    <MESSAGE value="Changement de l'adresse sur contact" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changement de l'adresse sur contact" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
